@@ -1,0 +1,5 @@
+wazo-market-client (0.1) wazo-dev; urgency=medium
+
+  * Initial release.
+
+ -- Wazo Maintainers <dev+pkg@wazo.community>  Mon, 14 Aug 2017 10:55:23 -0400
