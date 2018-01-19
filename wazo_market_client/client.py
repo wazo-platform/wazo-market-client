@@ -9,5 +9,5 @@ class Client(BaseClient):
 
     namespace = 'wazo_market_client.commands'
 
-    def __init__(self, host='apps.wazo.community', port=None, version='0.1', https=False, **kwargs):
+    def __init__(self, host='apps.wazo.community', port=None, version='v1', https=False, **kwargs):
         super(Client, self).__init__(host=host, port=port, version=version, https=https, **kwargs)
